@@ -1,0 +1,34 @@
+{
+  "name": "react-native-uuids",
+  "title": "React Native UUID",
+  "version": "1.0.6",
+  "description": "React Native Library to create UUIDs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastianruehmann/react-native-uuids.git",
+    "baseUrl": "https://github.com/sebastianruehmann/react-native-uuids"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "Sebastian Rühmann",
+    "email": "ruehmannsebastian@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  },
+  "dependencies": {}
+}
