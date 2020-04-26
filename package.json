@@ -1,7 +1,7 @@
 {
   "name": "react-native-uuids",
   "title": "React Native UUID",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "React Native Library to create UUIDs",
   "main": "index.js",
   "scripts": {
