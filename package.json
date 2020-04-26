@@ -17,7 +17,7 @@
   ],
   "author": {
     "name": "Sebastian Rühmann",
-    "email": "ruehmannsebastian@gmail.com"
+    "email": "mail@sebastianruehmann.de"
   },
   "license": "MIT",
   "licenseFilename": "LICENSE",
@@ -30,5 +30,7 @@
     "react": "^16.9.0",
     "react-native": "^0.61.5"
   },
-  "dependencies": {}
+  "dependencies": {
+    "react-native-background-fetch": "^2.0.8"
+  }
 }
